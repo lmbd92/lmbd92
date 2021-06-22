@@ -10,7 +10,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/linalunera92?label=Follow)](https://twitter.com/intent/follow?screen_name=linalunera92)
 [![Linkedin: lmbd9203](https://img.shields.io/badge/-lmbd9203-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lmbd9203/)](https://www.linkedin.com/in/lmbd9203/)
-![GitHub followers](https://img.shields.io/github/followers/lmbd92?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/lmbd92?label=Follow&style=social)](https://github.com/lmbd92)
 
 #### Programming tools and languages:
 

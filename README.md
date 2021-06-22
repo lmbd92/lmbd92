@@ -3,9 +3,7 @@
 
 # Hello! I'm Lina Beltrán 💻🏍️🚴
 
-### 📑: Front-End Jr Dev [In progress] 
-<img src="https://static.vecteezy.com/ti/vecteur-libre/p3/227854-vecteur-de-developpeur-feminin-gratuit-vectoriel.jpg" width="200">
-
+### 📑:briefcase: Front-End Jr Dev [In progress] 
 ### :computer::crown: Systems Engineer
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
@@ -22,6 +20,7 @@
 - PHP
 - Angular
 - MongoDB
+- TypeScript
 
 #### Basics knowledge in:
 

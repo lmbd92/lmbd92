@@ -4,7 +4,7 @@
 # Hello! I'm Lina Beltrán 💻🏍️🚴
 
 ### 📑:briefcase: Front-End Jr Dev [In progress] 
-### :computer::crown: Systems Engineer
+### :computer::crown: Systems Engineer [:mortar_board:]
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 

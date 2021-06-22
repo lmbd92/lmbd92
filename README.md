@@ -30,7 +30,7 @@
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmbd92)](https://github.com/lmbd92/github-readme-stats)![Lina GitHub stats](https://github-readme-stats.vercel.app/api?username=lmbd92&theme=material-palenight&show_icons=true)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmbd92)](https://github.com/lmbd92/github-readme-stats)              ![Lina GitHub stats](https://github-readme-stats.vercel.app/api?username=lmbd92&theme=material-palenight&show_icons=true)    
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 

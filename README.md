@@ -6,6 +6,11 @@
 ### 📑:briefcase: Front-End Jr Dev [In progress] 
 ### :computer::crown: Systems Engineer [:mortar_board:]
 
+- 🔭 I’m currently working on Front End (Angular, React)
+- 🌱 I’m currently learning NodeJs
+- 👯 I’m looking to collaborate on Fintech and data science
+- 💬 Ask me about Front End tools
+
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/linalunera92?label=Follow)](https://twitter.com/intent/follow?screen_name=linalunera92)
@@ -37,9 +42,3 @@
 I love connecting with different people so if you want to say hi, I'll be happy to meet you!
 
 > ##### _#girlpower #itwomen #womeninstem #girlswhocode #womenwhocode #girlsintech #womenintechnology_
-
-
-- 🔭 I’m currently working on Front End (Angular, React)
-- 🌱 I’m currently learning NodeJs
-- 👯 I’m looking to collaborate on Fintech and data science
-- 💬 Ask me about Front End tools

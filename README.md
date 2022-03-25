@@ -5,6 +5,7 @@
 
 ### 📑:briefcase: Front-End Jr Dev [In progress] 
 ### :computer::crown: Systems Engineer [:mortar_board:]
+### :computer::computer:Data science master student
 
 - 🔭 I’m currently working on Front End (Angular, React)
 - 🌱 I’m currently learning NodeJs
@@ -30,6 +31,8 @@
 #### Basics knowledge in:
 
 - NodeJs
+- SQL
+- phyton
 - PowerBI
 - VBA
 

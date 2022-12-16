@@ -1,4 +1,4 @@
-<img src="https://blog.atom.io/img/posts/github-for-atom.png" width=100% height=100%>
+<img src="https://github.com/lmbd92/lmbd92/blob/main/banner.jpg" width=100% height=100%>
 
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">A passionate frontend developer from Colombia 💻🏍️🚴</h3> 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **lmbd92@hotmail.com**
 
-- 📄 Know about my experiences [t.ly/kLJd](t.ly/kLJd)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1d7sPKycSo4rFAu_v8ok1KqOaQjNuoaf0/view?usp=sharing)
 
 - ⚡ Fun fact **My favorite hobby is riding my motorcycle**
 

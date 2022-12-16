@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **CX and Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lmbd92](https://github.com/lmbd92)
+- 👨‍💻 All of my projects are available at [Portfolio](https://lmbd92.github.io/Portafolio/)
 
 - 💬 Ask me about **React, Angular, JavaScript, TypeScript**
 

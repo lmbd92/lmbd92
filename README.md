@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [React and Angular projects](https://lmbd92.github.io/Portafolio/#proyectos)
 
-- 🌱 I’m currently learning **RxJS, NgRx, Collibra Data governance**
+- 🌱 I’m currently learning **RxJS, NgRx, Express**
 
-- 👯 I’m looking to collaborate on **CX and Data Science projects**
+- 👯 I’m looking to collaborate on **Front-end projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://lmbd92.github.io/Portafolio/)
 

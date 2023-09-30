@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **lmbd92@hotmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1d7sPKycSo4rFAu_v8ok1KqOaQjNuoaf0/view?usp=sharing)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/linabeltrandev/)
 
 - ⚡ Fun fact **My favorite hobby is riding my motorcycle** [Happiness](https://github.com/lmbd92/lmbd92/blob/main/IMG_20221104_174226_026.jpg)
 
@@ -39,6 +39,6 @@
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 
-<p align="center"> I love connecting with different people so if you want to say hi, I'll be happy to meet you! </p>
+<p align="center"> I love connecting with different people so if you want to say hi, I'll be happy to meet you at [Twitter](https://twitter.com/linalunera92)! </p>
 
 > ##### _#girlpower #itwomen #womeninstem #girlswhocode #womenwhocode #girlsintech #womenintechnology_

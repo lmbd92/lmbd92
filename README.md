@@ -39,6 +39,6 @@
 
 <img src="https://t4.ftcdn.net/jpg/02/94/27/81/360_F_294278154_VlUZuAtOprZWhAiAplmvBJg7grD85r9Q.jpg" width=100% height=10>
 
-<p align="center"> I love connecting with different people so if you want to say hi, I'll be happy to meet you at [Twitter](https://twitter.com/linalunera92)! </p>
+<p align="center"> I love connecting with different people so if you want to say hi, I'll be happy to meet you at Twitter @linalunera92 </p>
 
-> ##### _#girlpower #itwomen #womeninstem #girlswhocode #womenwhocode #girlsintech #womenintechnology_
+##### _#girlpower #itwomen #womeninstem #girlswhocode #womenwhocode #girlsintech #womenintechnology_

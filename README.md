@@ -4,6 +4,10 @@
 <h3 align="center">A passionate frontend developer from Colombia 💻🏍️🚴</h3> 
 
 
+![image](https://github.com/lmbd92/lmbd92/assets/5832536/ad62bdfc-c1c1-4253-b9bb-0b62468891b8)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmbd92&label=Profile%20views&color=0e75b6&style=flat" alt="lmbd92" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/linalunera92?label=Follow)](https://twitter.com/intent/follow?screen_name=linalunera92)

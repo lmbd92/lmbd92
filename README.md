@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">A passionate frontend developer from Colombia 💻🏍️🚴</h3> 
 
+## This is my **2023 wrapped** here on #GitHub
+
 
 ![image](https://github.com/lmbd92/lmbd92/assets/5832536/ad62bdfc-c1c1-4253-b9bb-0b62468891b8)
 
